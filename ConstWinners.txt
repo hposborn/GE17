@@ -1,0 +1,597 @@
+Mansfield	Labour win by 8 votes
+Dudley North	Tories win by 120 votes
+Batley & Spen	Labour win by 124 votes
+Burnley	Liberal Democrats win by 153 votes
+Ross, Skye & Lochaber	Liberal Democrats win by 277 votes
+Caithness, Sutherland & Easter Ross	SNP win by 328 votes
+Hyndburn	Tories win by 332 votes
+Coventry North West	Tories win by 333 votes
+Workington	Labour win by 369 votes
+Bury South	Tories win by 378 votes
+Clacton	Tories win by 418 votes
+Bolton North East	Tories win by 447 votes
+St Ives	Tories win by 504 votes
+Stoke-On-Trent North	Labour win by 547 votes
+Bristol East	Tories win by 569 votes
+Southampton Test	Tories win by 674 votes
+Walsall South	Labour win by 727 votes
+Wirral South	Tories win by 728 votes
+Ellesmere Port & Neston	Labour win by 747 votes
+Hammersmith	Labour win by 762 votes
+Birmingham Erdington	Labour win by 801 votes
+Berwickshire, Roxburgh & Selkirk	Tories win by 883 votes
+Bradford East	Labour win by 884 votes
+Scunthorpe	Tories win by 885 votes
+Newport West	Tories win by 915 votes
+Bishop Auckland	Tories win by 915 votes
+Clwyd South	Tories win by 965 votes
+Worsley & Eccles South	Labour win by 1015 votes
+Luton South	Labour win by 1021 votes
+Newport East	Labour win by 1037 votes
+Eastbourne	Liberal Democrats win by 1098 votes
+Blackpool South	Tories win by 1132 votes
+Cheltenham	Tories win by 1177 votes
+Slough	Labour win by 1194 votes
+Exeter	Labour win by 1196 votes
+Manchester Withington	Labour win by 1248 votes
+Great Grimsby	Labour win by 1248 votes
+Alyn & Deeside	Tories win by 1299 votes
+Delyn	Tories win by 1307 votes
+Wolverhampton North East	Labour win by 1428 votes
+Oldham East & Saddleworth	Labour win by 1437 votes
+Sutton & Cheam	Tories win by 1494 votes
+Wrexham	Tories win by 1517 votes
+Chorley	Tories win by 1529 votes
+Fife North East	Liberal Democrats win by 1533 votes
+Coventry South	Tories win by 1594 votes
+Copeland	Tories win by 1602 votes
+Penistone & Stocksbridge	Labour win by 1624 votes
+Thornbury & Yate	Liberal Democrats win by 1629 votes
+Darlington	Tories win by 1634 votes
+Stoke-On-Trent South	Tories win by 1700 votes
+Leeds North East	Labour win by 1730 votes
+Ynys Mon	Others win by 1762 votes
+Nottingham South	Labour win by 1764 votes
+Cheadle	Tories win by 1831 votes
+Bridgend	Tories win by 1923 votes
+Tynemouth	Labour win by 1946 votes
+Walsall North	Tories win by 1995 votes
+Stoke-On-Trent Central	Labour win by 1998 votes
+Dumfriesshire, Clydesdale & Tweeddale	Tories win by 2007 votes
+Hartlepool	Labour win by 2012 votes
+Stalybridge & Hyde	Labour win by 2030 votes
+Wakefield	Tories win by 2033 votes
+Birmingham Edgbaston	Tories win by 2040 votes
+York Central	Labour win by 2074 votes
+Eltham	Tories win by 2075 votes
+Birmingham Yardley	Labour win by 2078 votes
+Bristol South	Labour win by 2331 votes
+Sedgefield	Labour win by 2377 votes
+Gedling	Tories win by 2382 votes
+Birmingham Northfield	Tories win by 2391 votes
+Lancashire West	Labour win by 2415 votes
+Westminster North	Tories win by 2469 votes
+Dagenham & Rainham	Labour win by 2571 votes
+Cardiff South & Penarth	Labour win by 2604 votes
+Bradford South	Labour win by 2619 votes
+Cardiff West	Labour win by 2648 votes
+Bath	Liberal Democrats win by 2672 votes
+Bassetlaw	Labour win by 2674 votes
+Argyll & Bute	SNP win by 2683 votes
+Torbay	Tories win by 2738 votes
+Huddersfield	Labour win by 2747 votes
+Heywood & Middleton	Labour win by 2783 votes
+Gordon	SNP win by 2828 votes
+Edinburgh South	SNP win by 2968 votes
+Birmingham Selly Oak	Labour win by 3056 votes
+Stockton North	Labour win by 3075 votes
+Leicester West	Labour win by 3339 votes
+Tooting	Tories win by 3343 votes
+Oxford West & Abingdon	Tories win by 3351 votes
+Derbyshire North East	Tories win by 3377 votes
+Middlesbrough South & Cleveland East	Tories win by 3378 votes
+Warrington North	Labour win by 3438 votes
+Norwich South	Labour win by 3474 votes
+Lewes	Liberal Democrats win by 3555 votes
+Carshalton & Wallington	Liberal Democrats win by 3586 votes
+Kingston & Surbiton	Liberal Democrats win by 3588 votes
+Lancaster & Fleetwood	Tories win by 3680 votes
+Swansea West	Labour win by 3700 votes
+Colchester	Tories win by 3701 votes
+Don Valley	Labour win by 3721 votes
+Portsmouth South	Tories win by 3741 votes
+Ashfield	Labour win by 3825 votes
+Torfaen	Labour win by 3857 votes
+Harrow West	Tories win by 3858 votes
+Derby South	Labour win by 3880 votes
+Brecon & Radnorshire	Tories win by 3898 votes
+Cardiff Central	Liberal Democrats win by 3910 votes
+Berwick-Upon-Tweed	Tories win by 3918 votes
+Inverness, Nairn, Badenoch & Strathspey	SNP win by 3922 votes
+Bristol West	Liberal Democrats win by 3978 votes
+Luton North	Labour win by 4003 votes
+Wolverhampton South West	Tories win by 4009 votes
+Newcastle-Under-Lyme	Tories win by 4057 votes
+West Bromwich West	Labour win by 4097 votes
+Rother Valley	Labour win by 4101 votes
+Vale Of Clwyd	Tories win by 4128 votes
+Brent North	Labour win by 4195 votes
+Orkney & Shetland	Liberal Democrats win by 4306 votes
+Enfield North	Tories win by 4312 votes
+Llanelli	Labour win by 4317 votes
+Hove	Tories win by 4324 votes
+Derby North	Tories win by 4428 votes
+Gower	Tories win by 4428 votes
+Wirral West	Tories win by 4431 votes
+Barrow & Furness	Tories win by 4454 votes
+Yeovil	Tories win by 4493 votes
+Halifax	Tories win by 4504 votes
+Erith & Thamesmead	Labour win by 4561 votes
+Thurrock	Tories win by 4606 votes
+Hampstead & Kilburn	Tories win by 4619 votes
+West Bromwich East	Labour win by 4714 votes
+Dwyfor Meirionnydd	Others win by 4727 votes
+Montgomeryshire	Tories win by 4809 votes
+Dewsbury	Tories win by 4974 votes
+Newcastle Upon Tyne North	Labour win by 4995 votes
+Rhondda	Labour win by 5070 votes
+Feltham & Heston	Labour win by 5108 votes
+Na H-Eileanan An Iar	SNP win by 5124 votes
+Southport	Liberal Democrats win by 5207 votes
+Telford	Tories win by 5231 votes
+Durham North West	Labour win by 5257 votes
+Blyth Valley	Labour win by 5286 votes
+Edinburgh West	Liberal Democrats win by 5297 votes
+Hazel Grove	Tories win by 5336 votes
+Stockport	Labour win by 5484 votes
+Ilford North	Tories win by 5484 votes
+Wythenshawe & Sale East	Labour win by 5507 votes
+Pontypridd	Labour win by 5551 votes
+Ealing Central & Acton	Tories win by 5598 votes
+Bury North	Tories win by 5598 votes
+Plymouth Sutton & Devonport	Tories win by 5637 votes
+Brighton Kemptown	Tories win by 5715 votes
+Carmarthen East & Dinefwr	Others win by 5725 votes
+Wells	Tories win by 5752 votes
+Chester, City Of	Tories win by 5814 votes
+Arfon	Others win by 5832 votes
+Dumfries & Galloway	SNP win by 5844 votes
+Plymouth Moor View	Tories win by 5875 votes
+Sefton Central	Labour win by 5885 votes
+Brentford & Isleworth	Tories win by 5910 votes
+Morley & Outwood	Tories win by 5934 votes
+Aberdeenshire West & Kincardine	SNP win by 5950 votes
+Stretford & Urmston	Labour win by 6037 votes
+Ashton Under Lyne	Labour win by 6042 votes
+Denton & Reddish	Labour win by 6049 votes
+Wansbeck	Labour win by 6062 votes
+Bedford	Tories win by 6080 votes
+Rotherham	Labour win by 6086 votes
+Bolsover	Labour win by 6139 votes
+Ealing North	Labour win by 6156 votes
+Hornsey & Wood Green	Liberal Democrats win by 6187 votes
+Sunderland Central	Labour win by 6278 votes
+Wolverhampton South East	Labour win by 6293 votes
+Croydon Central	Tories win by 6302 votes
+Norfolk North	Liberal Democrats win by 6315 votes
+Hull West & Hessle	Labour win by 6350 votes
+Doncaster Central	Labour win by 6401 votes
+Thanet South	Tories win by 6411 votes
+Bolton West	Tories win by 6493 votes
+Lincoln	Tories win by 6523 votes
+Weaver Vale	Tories win by 6538 votes
+Devon North	Tories win by 6584 votes
+Greenwich & Woolwich	Labour win by 6594 votes
+Cornwall North	Tories win by 6622 votes
+Durham, City Of	Labour win by 6637 votes
+Coventry North East	Labour win by 6638 votes
+Hemsworth	Labour win by 6680 votes
+Leeds West	Labour win by 6761 votes
+Peterborough	Tories win by 6811 votes
+Neath	Labour win by 6837 votes
+Aberconwy	Tories win by 6878 votes
+Cynon Valley	Labour win by 6957 votes
+Caerphilly	Labour win by 6981 votes
+Blackburn	Labour win by 7152 votes
+Redcar	Labour win by 7159 votes
+Southampton Itchen	Tories win by 7281 votes
+Vauxhall	Labour win by 7364 votes
+Ceredigion	Liberal Democrats win by 7364 votes
+Northampton North	Tories win by 7381 votes
+Lewisham West & Penge	Labour win by 7392 votes
+Bradford West	Labour win by 7410 votes
+Cardiff North	Tories win by 7443 votes
+Blackpool North & Cleveleys	Tories win by 7476 votes
+Nottingham North	Labour win by 7490 votes
+Bolton South East	Labour win by 7526 votes
+Carlisle	Tories win by 7553 votes
+Eastleigh	Tories win by 7564 votes
+Salford & Eccles	Labour win by 7571 votes
+Twickenham	Liberal Democrats win by 7604 votes
+Northampton South	Tories win by 7719 votes
+Leeds East	Labour win by 7856 votes
+Moray	SNP win by 7873 votes
+Streatham	Labour win by 7971 votes
+Islwyn	Labour win by 7990 votes
+Preston	Labour win by 8003 votes
+Dunbartonshire East	Liberal Democrats win by 8008 votes
+Halesowen & Rowley Regis	Tories win by 8014 votes
+Warwickshire North	Tories win by 8082 votes
+Nottingham East	Labour win by 8096 votes
+Newcastle Upon Tyne East	Labour win by 8159 votes
+Islington South & Finsbury	Labour win by 8161 votes
+South Shields	Labour win by 8198 votes
+Leigh	Labour win by 8238 votes
+Hull East	Labour win by 8240 votes
+Newcastle Upon Tyne Central	Labour win by 8330 votes
+Rochdale	Labour win by 8374 votes
+Waveney	Tories win by 8383 votes
+Aberavon	Labour win by 8388 votes
+Corby	Tories win by 8450 votes
+Wigan	Labour win by 8469 votes
+Keighley	Tories win by 8474 votes
+Durham North	Labour win by 8478 votes
+Dudley South	Tories win by 8482 votes
+Swansea East	Labour win by 8523 votes
+Washington & Sunderland West	Labour win by 8606 votes
+Doncaster North	Labour win by 8607 votes
+Boston & Skegness	Tories win by 8640 votes
+Preseli Pembrokeshire	Tories win by 8693 votes
+Erewash	Tories win by 8720 votes
+Chesterfield	Labour win by 8753 votes
+Norwich North	Tories win by 8778 votes
+Lewisham East	Labour win by 8788 votes
+Chippenham	Tories win by 8805 votes
+Merthyr Tydfil & Rhymney	Labour win by 8871 votes
+Amber Valley	Tories win by 8935 votes
+Ogmore	Labour win by 9045 votes
+Makerfield	Labour win by 9063 votes
+Perth & Perthshire North	SNP win by 9071 votes
+Sheffield Heeley	Labour win by 9174 votes
+Middlesbrough	Labour win by 9177 votes
+Oxford East	Labour win by 9180 votes
+Hull North	Labour win by 9255 votes
+Dulwich & West Norwood	Labour win by 9276 votes
+Blaydon	Labour win by 9313 votes
+Barnsley East	Labour win by 9328 votes
+Houghton & Sunderland South	Labour win by 9331 votes
+Hendon	Tories win by 9342 votes
+Sheffield South East	Labour win by 9343 votes
+Normanton, Pontefract & Castleford	Labour win by 9372 votes
+Ipswich	Tories win by 9420 votes
+Crewe & Nantwich	Tories win by 9493 votes
+Birmingham Perry Barr	Labour win by 9499 votes
+Belfast South	Others win by 9560 votes
+Hayes & Harlington	Labour win by 9577 votes
+Nuneaton	Tories win by 9580 votes
+Renfrewshire East	SNP win by 9602 votes
+Morecambe & Lunesdale	Tories win by 9701 votes
+Carmarthen West & Pembrokeshire South	Tories win by 9703 votes
+Enfield Southgate	Tories win by 9707 votes
+Jarrow	Labour win by 9709 votes
+St Austell & Newquay	Tories win by 9770 votes
+Warley	Labour win by 9776 votes
+Aberdeen South	SNP win by 9805 votes
+Broxtowe	Tories win by 9855 votes
+Edmonton	Labour win by 9881 votes
+Warrington South	Tories win by 9887 votes
+Barnsley Central	Labour win by 10000 votes
+Oldham West & Royton	Labour win by 10047 votes
+Clwyd West	Tories win by 10057 votes
+Leyton & Wanstead	Labour win by 10099 votes
+Stevenage	Tories win by 10104 votes
+Sherwood	Tories win by 10163 votes
+Sheffield Brightside & Hillsborough	Labour win by 10169 votes
+Bermondsey & Old Southwark	Liberal Democrats win by 10213 votes
+Cannock Chase	Tories win by 10241 votes
+Bristol North West	Tories win by 10242 votes
+Angus	SNP win by 10357 votes
+Blaenau Gwent	Labour win by 10365 votes
+Hastings & Rye	Tories win by 10386 votes
+Wallasey	Labour win by 10447 votes
+Calder Valley	Tories win by 10453 votes
+Pendle	Tories win by 10492 votes
+High Peak	Tories win by 10492 votes
+Paisley & Renfrewshire South	SNP win by 10546 votes
+Pudsey	Tories win by 10620 votes
+Sheffield Central	Labour win by 10626 votes
+Great Yarmouth	Tories win by 10659 votes
+Dorset Mid & Poole North	Tories win by 10681 votes
+Harrow East	Tories win by 10689 votes
+Worcester	Tories win by 10694 votes
+Wentworth & Dearne	Labour win by 10709 votes
+Poplar & Limehouse	Labour win by 10709 votes
+Kensington	Tories win by 10832 votes
+Stockton South	Tories win by 10878 votes
+Scarborough & Whitby	Tories win by 10879 votes
+Maidstone & The Weald	Tories win by 10962 votes
+Colne Valley	Tories win by 11064 votes
+Camborne & Redruth	Tories win by 11102 votes
+Mitcham & Morden	Labour win by 11115 votes
+Holborn & St Pancras	Labour win by 11188 votes
+Rossendale & Darwen	Tories win by 11248 votes
+Swindon South	Tories win by 11248 votes
+Glasgow Central	SNP win by 11296 votes
+Stroud	Tories win by 11358 votes
+St Helens North	Labour win by 11409 votes
+Finchley & Golders Green	Tories win by 11410 votes
+Dover	Tories win by 11420 votes
+St Albans	Tories win by 11460 votes
+Newton Abbot	Tories win by 11520 votes
+Edinburgh North & Leith	SNP win by 11530 votes
+Reading East	Tories win by 11547 votes
+Brighton Pavilion	Others win by 11601 votes
+Rochester & Strood	Tories win by 11641 votes
+East Lothian	SNP win by 11641 votes
+Gateshead	Labour win by 11654 votes
+Tyneside North	Labour win by 11655 votes
+South Ribble	Tories win by 11726 votes
+Stourbridge	Tories win by 11762 votes
+Easington	Labour win by 11830 votes
+Leeds Central	Labour win by 11841 votes
+Barking	Labour win by 11851 votes
+Crawley	Tories win by 11870 votes
+Redditch	Tories win by 11875 votes
+Antrim South	Others win by 11942 votes
+Solihull	Tories win by 11961 votes
+Vale Of Glamorgan	Tories win by 12030 votes
+Warwick & Leamington	Tories win by 12037 votes
+Reading West	Tories win by 12053 votes
+Antrim East	Others win by 12103 votes
+Airdrie & Shotts	SNP win by 12104 votes
+Basildon South & Thurrock East	Tories win by 12121 votes
+Leicester South	Labour win by 12202 votes
+Stirling	SNP win by 12206 votes
+Glasgow North East	SNP win by 12221 votes
+Birmingham Hall Green	Labour win by 12229 votes
+Leicester East	Labour win by 12281 votes
+Bosworth	Tories win by 12287 votes
+Ilford South	Labour win by 12489 votes
+Battersea	Tories win by 12509 votes
+Chingford & Woodford Green	Tories win by 12569 votes
+Winchester	Tories win by 12640 votes
+Edinburgh South West	SNP win by 12728 votes
+Harlow	Tories win by 12813 votes
+Cleethorpes	Tories win by 12838 votes
+Gloucester	Tories win by 12843 votes
+Ealing Southall	Labour win by 12844 votes
+Blackley & Broughton	Labour win by 12855 votes
+Banff & Buchan	SNP win by 12912 votes
+Truro & Falmouth	Tories win by 12940 votes
+Cities Of London & Westminster	Tories win by 12979 votes
+Glasgow North	SNP win by 13010 votes
+Leeds North West	Liberal Democrats win by 13033 votes
+Islington North	Labour win by 13123 votes
+Chipping Barnet	Tories win by 13149 votes
+Glasgow South West	SNP win by 13171 votes
+Bexleyheath & Crayford	Tories win by 13195 votes
+Edinburgh East	SNP win by 13203 votes
+Paisley & Renfrewshire North	SNP win by 13343 votes
+Midlothian	SNP win by 13404 votes
+Gravesham	Tories win by 13459 votes
+Rochford & Southend East	Tories win by 13514 votes
+Glasgow East	SNP win by 13551 votes
+Brent Central	Labour win by 13702 votes
+Watford	Tories win by 13815 votes
+Kirkcaldy & Cowdenbeath	SNP win by 13837 votes
+Cambridge	Liberal Democrats win by 13869 votes
+Glasgow North West	SNP win by 13914 votes
+Croydon North	Labour win by 13926 votes
+Ochil & Perthshire South	SNP win by 14042 votes
+Stafford	Tories win by 14049 votes
+Putney	Tories win by 14089 votes
+Kingswood	Tories win by 14095 votes
+Castle Point	Tories win by 14138 votes
+Lanark & Hamilton East	SNP win by 14145 votes
+Halton	Labour win by 14145 votes
+Ayr, Carrick & Cumnock	SNP win by 14219 votes
+Cambridgeshire South East	Tories win by 14223 votes
+Dunfermline & Fife West	SNP win by 14231 votes
+Wimbledon	Tories win by 14281 votes
+Devon East	Tories win by 14373 votes
+Rutherglen & Hamilton West	SNP win by 14376 votes
+Inverclyde	SNP win by 14431 votes
+Filton & Bradley Stoke	Tories win by 14470 votes
+Shrewsbury & Atcham	Tories win by 14575 votes
+Canterbury	Tories win by 14633 votes
+Londonderry East	Others win by 14663 votes
+Elmet & Rothwell	Tories win by 14686 votes
+Harrogate & Knaresborough	Tories win by 14778 votes
+Loughborough	Tories win by 14805 votes
+Portsmouth North	Tories win by 14823 votes
+Staffordshire Moorlands	Tories win by 14868 votes
+Lewisham Deptford	Labour win by 14871 votes
+Milton Keynes South	Tories win by 14886 votes
+Shipley	Tories win by 14890 votes
+Uxbridge & Ruislip South	Tories win by 14901 votes
+St Helens South & Whiston	Labour win by 14973 votes
+Strangford	Others win by 15053 votes
+Hackney North & Stoke Newington	Labour win by 15058 votes
+Bournemouth West	Tories win by 15201 votes
+Rugby	Tories win by 15228 votes
+Thanet North	Tories win by 15312 votes
+Milton Keynes North	Tories win by 15312 votes
+Dorset West	Tories win by 15334 votes
+Gillingham & Rainham	Tories win by 15343 votes
+Wrekin, The	Tories win by 15398 votes
+Upper Bann	Others win by 15430 votes
+Forest Of Dean	Tories win by 15439 votes
+Motherwell & Wishaw	SNP win by 15446 votes
+Birkenhead	Labour win by 15456 votes
+Sheffield Hallam	Liberal Democrats win by 15522 votes
+Chatham & Aylesford	Tories win by 15530 votes
+Monmouth	Tories win by 15531 votes
+Taunton Deane	Tories win by 15566 votes
+Hexham	Tories win by 15577 votes
+Coatbridge, Chryston & Bellshill	SNP win by 15682 votes
+Brigg & Goole	Tories win by 15775 votes
+Aldridge-Brownhills	Tories win by 15847 votes
+Aberdeen North	SNP win by 15884 votes
+Richmond Park	Tories win by 15920 votes
+Tottenham	Labour win by 16041 votes
+Manchester Central	Labour win by 16204 votes
+Burton	Tories win by 16222 votes
+Westmorland & Lonsdale	Liberal Democrats win by 16237 votes
+Hackney South & Shoreditch	Labour win by 16264 votes
+Tamworth	Tories win by 16275 votes
+Leicestershire North West	Tories win by 16287 votes
+Ayrshire Central	SNP win by 16326 votes
+Basingstoke	Tories win by 16455 votes
+Romsey & Southampton North	Tories win by 16456 votes
+Sittingbourne & Sheppey	Tories win by 16495 votes
+Dorset South	Tories win by 16565 votes
+Wyre Forest	Tories win by 16614 votes
+Derbyshire South	Tories win by 16643 votes
+Glasgow South	SNP win by 16727 votes
+Ayrshire North & Arran	SNP win by 16735 votes
+Southend West	Tories win by 16787 votes
+Tyrone West	Others win by 16807 votes
+Birmingham Ladywood	Labour win by 16814 votes
+Glenrothes	SNP win by 16991 votes
+Swindon North	Tories win by 17025 votes
+Welwyn Hatfield	Tories win by 17109 votes
+Eddisbury	Tories win by 17110 votes
+Liverpool Wavertree	Labour win by 17134 votes
+Birmingham Hodge Hill	Labour win by 17143 votes
+Bromley & Chislehurst	Tories win by 17156 votes
+Basildon & Billericay	Tories win by 17167 votes
+Kettering	Tories win by 17186 votes
+Beverley & Holderness	Tories win by 17212 votes
+Fylde	Tories win by 17231 votes
+Linlithgow & Falkirk East	SNP win by 17253 votes
+Spelthorne	Tories win by 17287 votes
+Derbyshire Mid	Tories win by 17345 votes
+Liverpool Riverside	Labour win by 17405 votes
+Bournemouth East	Tories win by 17446 votes
+Somerset North East	Tories win by 17453 votes
+Kilmarnock & Loudoun	SNP win by 17463 votes
+Dartford	Tories win by 17603 votes
+Havant	Tories win by 17685 votes
+Down North	Others win by 17689 votes
+Foyle	Others win by 17725 votes
+Bognor Regis & Littlehampton	Tories win by 17749 votes
+Cornwall South East	Tories win by 17991 votes
+Folkestone & Hythe	Tories win by 18053 votes
+Dunbartonshire West	SNP win by 18066 votes
+Down South	Others win by 18077 votes
+York Outer	Tories win by 18082 votes
+Antrim North	Others win by 18107 votes
+Walthamstow	Labour win by 18116 votes
+Altrincham & Sale West	Tories win by 18159 votes
+Cumbernauld, Kilsyth & Kirkintilloch East	SNP win by 18207 votes
+Derbyshire Dales	Tories win by 18212 votes
+Ribble Valley	Tories win by 18333 votes
+Isle Of Wight	Tories win by 18335 votes
+Manchester Gorton	Labour win by 18339 votes
+Romford	Tories win by 18404 votes
+Hornchurch & Upminster	Tories win by 18414 votes
+Aldershot	Tories win by 18451 votes
+Camberwell & Peckham	Labour win by 18564 votes
+Cambridgeshire South	Tories win by 18569 votes
+Norfolk North West	Tories win by 18591 votes
+Bridgwater & Somerset West	Tories win by 18672 votes
+Rushcliffe	Tories win by 18673 votes
+Poole	Tories win by 18756 votes
+Norfolk South West	Tories win by 18868 votes
+Bethnal Green & Bow	Labour win by 18868 votes
+Macclesfield	Tories win by 18920 votes
+Hemel Hempstead	Tories win by 18946 votes
+Wyre & Preston North	Tories win by 18984 votes
+Selby & Ainsty	Tories win by 19035 votes
+Lagan Valley	Others win by 19055 votes
+Worthing East & Shoreham	Tories win by 19064 votes
+Belfast North	Others win by 19096 votes
+Suffolk West	Tories win by 19102 votes
+Belfast West	Others win by 19163 votes
+Weston-Super-Mare	Tories win by 19229 votes
+Harwich & Essex North	Tories win by 19369 votes
+Wycombe	Tories win by 19385 votes
+Belfast East	Others win by 19575 votes
+Louth & Horncastle	Tories win by 19635 votes
+Dundee West	SNP win by 19667 votes
+Chelsea & Fulham	Tories win by 19683 votes
+Somerton & Frome	Tories win by 19721 votes
+Yorkshire East	Tories win by 19812 votes
+Ulster Mid	Others win by 19935 votes
+Old Bexley & Sidcup	Tories win by 20059 votes
+Gainsborough	Tories win by 20060 votes
+Livingston	SNP win by 20091 votes
+Garston & Halewood	Labour win by 20150 votes
+Aylesbury	Tories win by 20177 votes
+Faversham & Kent Mid	Tories win by 20202 votes
+Wellingborough	Tories win by 20264 votes
+Worthing West	Tories win by 20275 votes
+Guildford	Tories win by 20379 votes
+West Ham	Labour win by 20468 votes
+Newry & Armagh	Others win by 20488 votes
+East Kilbride, Strathaven & Lesmahagow	SNP win by 20567 votes
+Stone	Tories win by 20638 votes
+Broxbourne	Tories win by 20729 votes
+Hereford & Herefordshire South	Tories win by 20746 votes
+Gosport	Tories win by 20747 votes
+Cotswolds, The	Tories win by 20859 votes
+Shropshire North	Tories win by 20901 votes
+Broadland	Tories win by 20905 votes
+Norfolk Mid	Tories win by 21142 votes
+Haltemprice & Howden	Tories win by 21185 votes
+Wiltshire North	Tories win by 21219 votes
+Totnes	Tories win by 21266 votes
+Sutton Coldfield	Tories win by 21272 votes
+Congleton	Tories win by 21322 votes
+Bromsgrove	Tories win by 21353 votes
+Wiltshire South West	Tories win by 21685 votes
+Harborough	Tories win by 21696 votes
+Leicestershire South	Tories win by 21729 votes
+Cambridgeshire North East	Tories win by 21759 votes
+Liverpool West Derby	Labour win by 21807 votes
+Braintree	Tories win by 21810 votes
+Dundee East	SNP win by 21871 votes
+Ludlow	Tories win by 22019 votes
+Charnwood	Tories win by 22042 votes
+Rayleigh & Wickford	Tories win by 22076 votes
+Epping Forest	Tories win by 22120 votes
+Suffolk South	Tories win by 22259 votes
+Tatton	Tories win by 22269 votes
+Christchurch	Tories win by 22276 votes
+Devon West & Torridge	Tories win by 22412 votes
+Woking	Tories win by 22420 votes
+Bedfordshire South West	Tories win by 22475 votes
+Chelmsford	Tories win by 22490 votes
+Croydon South	Tories win by 22524 votes
+Liverpool Walton	Labour win by 22568 votes
+Devon Central	Tories win by 22611 votes
+Richmond (Yorks)	Tories win by 22867 votes
+Thirsk & Malton	Tories win by 22896 votes
+Beckenham	Tories win by 22913 votes
+New Forest East	Tories win by 22936 votes
+Lichfield	Tories win by 22994 votes
+Bootle	Labour win by 23093 votes
+Newark	Tories win by 23116 votes
+Banbury	Tories win by 23144 votes
+Orpington	Tories win by 23146 votes
+Wokingham	Tories win by 23179 votes
+Falkirk	SNP win by 23183 votes
+Wantage	Tories win by 23192 votes
+Meriden	Tories win by 23204 votes
+Hertsmere	Tories win by 23208 votes
+Sevenoaks	Tories win by 23264 votes
+Penrith & The Border	Tories win by 23274 votes
+Ashford	Tories win by 23331 votes
+Hertfordshire North East	Tories win by 23484 votes
+Witham	Tories win by 23495 votes
+Devizes	Tories win by 23532 votes
+Suffolk Coastal	Tories win by 23589 votes
+Fermanagh & South Tyrone	Others win by 23608 votes
+Buckingham	Others win by 23671 votes
+Grantham & Stamford	Tories win by 23692 votes
+South Holland & The Deepings	Tories win by 23730 votes
+Huntingdon	Tories win by 23760 votes
+Kenilworth & Southam	Tories win by 23808 votes
+Herefordshire North	Tories win by 23810 votes
+Cambridgeshire North West	Tories win by 23885 votes
+Tiverton & Honiton	Tories win by 23914 votes
+Bexhill & Battle	Tories win by 24113 votes
+Salisbury	Tories win by 24144 votes
+New Forest West	Tories win by 24179 votes
+Reigate	Tories win by 24251 votes
+Tewkesbury	Tories win by 242
