@@ -592,4 +592,59 @@ Henley	Tories win by 24047 votes
 Grantham & Stamford	Tories win by 24084 votes
 Newbury	Tories win by 24307 votes
 Huntingdon	Tories win by 24354 votes
-Su
+Sussex Mid	Tories win by 24463 votes
+Tiverton & Honiton	Tories win by 24524 votes
+Devizes	Tories win by 24531 votes
+Orpington	Tories win by 24661 votes
+Buckingham	Others win by 24753 votes
+Tunbridge Wells	Tories win by 24870 votes
+South Holland & The Deepings	Tories win by 24902 votes
+New Forest West	Tories win by 24917 votes
+Devon South West	Tories win by 24993 votes
+Worcestershire Mid	Tories win by 25080 votes
+Cambridgeshire North West	Tories win by 25201 votes
+Horsham	Tories win by 25286 votes
+Bexhill & Battle	Tories win by 25290 votes
+Skipton & Ripon	Tories win by 25296 votes
+East Ham	Labour win by 25315 votes
+Staffordshire South	Tories win by 25348 votes
+Dorset North	Tories win by 25364 votes
+Hampshire East	Tories win by 25434 votes
+Hitchin & Harpenden	Tories win by 25453 votes
+Bracknell	Tories win by 25605 votes
+Suffolk Central & Ipswich North	Tories win by 25622 votes
+Ruislip, Northwood & Pinner	Tories win by 25629 votes
+Norfolk South	Tories win by 25700 votes
+Daventry	Tories win by 25705 votes
+Chesham & Amersham	Tories win by 25716 votes
+Hertfordshire South West	Tories win by 25845 votes
+Worcestershire West	Tories win by 26349 votes
+Bury St Edmunds	Tories win by 26395 votes
+Fareham	Tories win by 26419 votes
+Hertford & Stortford	Tories win by 26540 votes
+Runnymede & Weybridge	Tories win by 26575 votes
+Rutland & Melton	Tories win by 26672 votes
+Brentwood & Ongar	Tories win by 26794 votes
+Wealden	Tories win by 27105 votes
+Maldon	Tories win by 27128 votes
+Windsor	Tories win by 27332 votes
+Surrey East	Tories win by 27499 votes
+Tonbridge & Malling	Tories win by 27531 votes
+Knowsley	Labour win by 27690 votes
+Saffron Walden	Tories win by 27713 votes
+Bedfordshire Mid	Tories win by 27915 votes
+Meon Valley	Tories win by 28055 votes
+Hampshire North West	Tories win by 28059 votes
+Chichester	Tories win by 28230 votes
+Epsom & Ewell	Tories win by 28428 votes
+Surrey Heath	Tories win by 28733 votes
+Surrey South West	Tories win by 28864 votes
+Esher & Walton	Tories win by 29114 votes
+Hampshire North East	Tories win by 29224 votes
+Maidenhead	Tories win by 29678 votes
+Sleaford & North Hykeham	Tories win by 30106 votes
+Beaconsfield	Tories win by 30152 votes
+Witney	Tories win by 30553 votes
+Arundel & South Downs	Tories win by 30597 votes
+Bedfordshire North East	Tories win by 30681 votes
+Northamptonshire South	Tories win by 32060 votes
